@@ -131,6 +131,10 @@ ArrayLists are good for write-once-read-many or appenders, but bad at add/remove
 
 ************************Avoid Null Pointer Exception *********************
 
+https://stackoverflow.com/questions/271526/avoiding-nullpointerexception-in-java
+
+https://stackoverflow.com/questions/218384/what-is-a-nullpointerexception-and-how-do-i-fix-it
+
 
 
 
