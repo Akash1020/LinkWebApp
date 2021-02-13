@@ -27,4 +27,134 @@ https://github.com/TechPrimers/learning-path-spring-boot-microservices
 
 https://github.com/pritamprasd/covid-dashboard
 
+https://www.youtube.com/watch?v=OBnjTszNe3c&ab_channel=KrishnaSakinala
+
+https://docs.spring.io/spring-boot/docs/1.2.3.RELEASE/reference/htmlsingle/#boot-features-external-config-validation
+
+
+
+
+           ********************READ PROPERTIES FILE ***********************
+
+
+https://www.youtube.com/watch?v=Lj93850-mEc&ab_channel=JavaSoul
+
+https://www.youtube.com/watch?v=WdT9AsIsYe8&ab_channel=JiriPinkas
+
+https://www.youtube.com/watch?v=YmBMwmLTtS8&ab_channel=roseindiatutorials
+
+https://www.youtube.com/watch?v=STvT3Qanors&ab_channel=TechTalkDebu
+
+https://howtodoinjava.com/java/io/read-write-properties-file/ ::::::::>>>>>>>>>   Properties file Read
+
+http://tutorials.jenkov.com/java-collections/properties.html
+
+https://www.netjstech.com/2017/09/how-to-read-properties-file-in-java.html
+
+https://stackoverflow.com/questions/13441895/what-is-the-best-way-to-load-a-properties-file-on-java
+
+https://crunchify.com/java-properties-file-how-to-read-config-properties-values-in-java/
+
+https://medium.com/bb-tutorials-and-thoughts/how-to-read-properties-file-in-java-6651fe2c6cbf
+
+https://www.baeldung.com/java-properties
+
+https://docs.oracle.com/cd/E23095_01/Platform.93/ATGProgGuide/html/s0204propertytypes01.html
+
+https://crunchify.com/java-properties-file-how-to-read-config-properties-values-in-java/
+
+https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#resources
+
+https://stackoverflow.com/questions/2304609/how-to-read-key-value-file-and-how-to-split-a-comma-separated-string
+
+https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-external-config
+
+https://stackoverflow.com/questions/9259819/how-to-read-values-from-properties-file
+
+https://stackoverflow.com/questions/1771166/access-properties-file-programmatically-with-spring
+
+https://stackoverflow.com/questions/33625588/best-way-to-read-properties-file-in-spring
+
+https://stackoverflow.com/questions/38281512/how-to-read-data-from-java-properties-file-using-spring-boot
+
+https://stackoverflow.com/questions/19252977/how-to-read-properties-or-any-other-text-file-in-java-spring-mvc-app
+
+https://knpcode.com/spring/read-values-from-properties-file-spring/
+
+https://stackoverflow.com/questions/16342637/populating-a-hashmap-with-entries-from-a-properties-file/16342982   :::::::: JAVA8 ::: MAP
+
+https://stackoverflow.com/questions/31870806/how-to-create-hash-map-with-entries-from-properties-file
+
+https://stackoverflow.com/questions/13597476/save-hashmap-properties-to-a-properties-file-and-load-those-properties-back-to
+
+https://stackoverflow.com/questions/28369458/how-to-fill-hashmap-from-java-property-file-with-spring-value
+
+https://stackoverflow.com/questions/1044855/load-java-properties-inside-static-initializer-block?noredirect=1&lq=1
+
+
+***************** READ PROPERTIES FILE from multiple values ******************************
+
+https://stackoverflow.com/questions/36782847/read-comma-separated-properties-with-configuration2-in-java
+
+https://stackoverflow.com/questions/12576156/reading-a-list-from-properties-file-and-load-with-spring-annotation-value
+
+
+https://stackoverflow.com/questions/3619796/how-to-read-a-properties-file-in-java-in-the-original-order
+
+https://stackoverflow.com/questions/24280226/store-properties-file-in-map
+
+https://stackoverflow.com/questions/333363/loading-a-properties-file-from-java-package
+
+
+
+********************Profiling***********
+https://stackabuse.com/spring-boot-configuring-properties/
+
+
+
+********ArrayList Vs LinkedList***********
+
+Algorithm           ArrayList   LinkedList
+seek front            O(1)         O(1)
+seek back             O(1)         O(1)
+seek to index         O(1)         O(N)
+insert at front       O(N)         O(1)
+insert at back        O(1)         O(1)
+insert after an item  O(N)         O(1)
+Algorithms: Big-Oh Notation (archived)
+
+ArrayLists are good for write-once-read-many or appenders, but bad at add/remove from the front or middle.
+
+
+:::>>  https://stackoverflow.com/questions/322715/when-to-use-linkedlist-over-arraylist-in-java?rq=1
+
+
+************************Avoid Null Pointer Exception *********************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
